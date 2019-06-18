@@ -1,7 +1,7 @@
 # Vaptcha 验证码插件
 本插件按照``Vaptach 2.0api``进行编写
 
-使用本插件你需要有 [Vaptach](https://www.vaptcha.com/) 的`VID`与`KEY`
+使用本插件你需要有 [Vaptcha](https://www.vaptcha.com/) 的`VID`与`KEY`
 
 配置好插件后开隐身模式测试一下
 
